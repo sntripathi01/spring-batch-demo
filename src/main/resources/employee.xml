@@ -1,0 +1,22 @@
+<emps>
+	<emp>
+		<name>Rahul</name>
+		<age>29</age>
+		<address>Cherrywood 611</address>
+	</emp>
+	<emp>
+	<name>Shariq</name>
+		<age>32</age>
+		<address>Cherrywood 612</address>
+	</emp>
+	<emp>
+		<name>Nagendra</name>
+		<age>33</age>
+		<address>Cherrywood 611</address>
+	</emp>
+	<emp>
+		<name>Sachchida</name>
+		<age>29</age>
+		<address>Cottenwood 17249</address>
+	</emp>
+</emps>
